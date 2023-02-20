@@ -4,6 +4,7 @@
 
 # Enable Google Container Registry API
 ``` gcloud config set project <GCP_PROJECT_ID> ``` </br>
+</br>
 ![image](https://user-images.githubusercontent.com/76727343/220054521-fd5bae2f-d7c5-4a27-9156-2947b4c26deb.png)
 </br>
 ``` gcloud services list ``` must list gcr.io API enabled. </br>
