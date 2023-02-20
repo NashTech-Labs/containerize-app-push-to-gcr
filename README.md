@@ -16,4 +16,4 @@
 Make sure ``` gcloud projects list ``` results your GCP project on which you have enabled gcr.io API. </br>
 
 # index.js
-Simple node.js app that servers "Hello from Knoldus !" </br>
+Simple node.js app that servers **"Hello from Knoldus !"** </br>
